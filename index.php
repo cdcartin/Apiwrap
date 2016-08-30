@@ -36,6 +36,7 @@ $facebook = new Apiwrap('WaterSignal');?>
 <title>Find us on Facebook</title>
 <link rel="stylesheet" href="960/reset.css" />
 <link rel="stylesheet" href="960/960_24_col.css" />
+<link rel="stylesheet" href="style.css" />
 </head>
 <body>
 <div class="topbanner">
