@@ -54,9 +54,10 @@ class Apiwrap {
 	* @var $app_secret string
 	*/
 	
-	private $app_id = '<your own id>';
-	private $app_secret = '<your own secret>';
-
+	// private $app_id = '<your own id>';
+	// private $app_secret = '<your own secret>';
+	private $app_id = '565535096911463';
+	private $app_secret = 'b4a3d7ef095eca662946297257dad741';
 
 	/**
 	*	Class Constructor

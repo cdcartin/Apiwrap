@@ -34,9 +34,9 @@ $facebook = new Apiwrap('WaterSignal');?>
 <head>
 <meta charset="utf-8" />
 <title>Find us on Facebook</title>
-<link rel="stylesheet" href="960/reset.css" />
-<link rel="stylesheet" href="960/960_24_col.css" />
-<link rel="stylesheet" href="style.css" />
+<link rel="stylesheet" href="css/960/reset.css" />
+<link rel="stylesheet" href="css/960/960_24_col.css" />
+<link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
 <div class="topbanner">
@@ -56,7 +56,7 @@ $facebook = new Apiwrap('WaterSignal');?>
 			<img class="profileimg" src="<?=$facebook->profile_pic?>" />
 		</div>
 		<div class="findUs">
-			<img src="assets/png/FB_FindUsOnFacebook-144.png"/>
+			<img src="img/FB_FindUsOnFacebook-144.png"/>
 		</div>
 	</div>
 	<div class="grid_18">	
