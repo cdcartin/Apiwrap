@@ -24,7 +24,7 @@ require "src/class.Apiwrap.php";
 /**
  *	 Create Apiwrap instance
  *	
- *	 When creating a new Apiwrap object, send a Facebook ID as a paramater
+ *	 When creating a new Apiwrap object, send a Facebook ID as a parameter
  */
 
 $facebook = new Apiwrap('WaterSignal');?>
