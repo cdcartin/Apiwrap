@@ -158,7 +158,7 @@ class Apiwrap {
 	 *
 	 *	@todo Support dynamic number of posts
 	 *	@param id string Facebook page identifier
-	 *	@return string
+	 *	@return array
 	 */
 	private function get_feed($id){
 		$feed = array();
